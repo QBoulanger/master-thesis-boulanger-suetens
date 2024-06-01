@@ -1,9 +1,3 @@
-# master-thesis-qb-ls
+# Master Thesis: Combining Evolutionary and Curiosity-Driven Algorithms to Enhance and Adapt Exploration Efficiency in Q-Learning
+Quentin Boulanger & Lucas Suetens
 
-Prerequies:
-
-python 3.10 +
-pip install opencv-python
-pip install gym-wumpus   
-pip install gymnasium[toy-text]
-pip install pyarrow
