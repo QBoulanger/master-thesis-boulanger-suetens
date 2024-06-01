@@ -1,0 +1,5 @@
+src/measure/grapher/*/csv_files/*
+src/measure/grapher/*/graphs/*
+**/__pycache__
+**/.idea
+**/*.pkl
